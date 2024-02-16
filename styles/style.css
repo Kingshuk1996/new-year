@@ -1,0 +1,122 @@
+/* header styles start */
+header {
+    
+   
+    max-width: 1400px;
+    margin: 40px auto;
+   background-image: url('../images/Banner\ Image.png');
+   background-size: cover;
+   background-position: center;
+   opacity: 120%;
+   height: 100vh;
+   width: 100%;
+}
+
+.banner-container {
+    
+    
+    text-align: center;
+    
+    padding-top: 150px;
+}
+
+.banner-container p {
+    font-size: 32px;
+    color: rgb(255, 255, 255);
+}
+
+.banner-container h2 {
+    font-size: 72px;
+    color: rgb(255, 255, 255);
+}
+
+/* header styles end */
+main {
+    max-width: 1400px;
+    margin: 40px auto;
+}
+
+/* newyear styles start */
+
+.newYear-content{
+    text-align: center;
+    padding-top: 50px;
+}
+.newYear-image {
+    text-align: center;
+}
+
+.newYear-content h1{
+    color: rgb(255, 0, 0);
+    font-size: 88px;
+}
+
+.newYear-content p{
+    color: rgb(255, 0, 0);
+    font-size: 24px;
+}
+.newYear-content h2{
+    color: rgb(7, 2, 17);
+    font-size: 48px;
+}
+
+/* newYear styles end */
+
+/* mid-night party styles start */
+
+.btn-primary {
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    border-radius: 16px;
+    background: linear-gradient(90.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%);
+    padding: 10px;
+}
+
+.party-container {
+    margin-top: 100px;
+    background-image: url('../images/Vectorrr.png');
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+   background-position: center;
+   justify-content: center;
+   padding-top: 400px;
+   
+}
+
+.midnight-content, .dolar-content, .btn-primary{
+   
+    margin-left: 200px ;
+    justify-content: center;
+    align-items: center;
+}
+
+.party-container h1 {
+    color: rgb(255, 255, 255);
+    font-size: 64px;
+}
+.party-container p {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 18px;
+}
+
+/* mid-night party styles end */
+
+/* info-styles start */
+.info-container {
+    margin-top: 100px;
+    background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 100%);
+    background-position: center;
+    padding-top: 100px;
+    border-radius: 16px;
+    height: 450px;
+}
+
+.info-container h3 {
+    text-align: center;
+}
+.time-color {
+    color: rgb(255, 0, 0);
+}
+
+/* info-styles end */
